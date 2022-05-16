@@ -1,0 +1,273 @@
+2022-05-16 09:32:41.552 [main] INFO  ltd.newbee.mall.NewBeeMallPlusApplication - [logStarting,55] - Starting NewBeeMallPlusApplication using Java 17.0.3 on zhi with PID 6504 (C:\Users\zhi\Desktop\newbee-mall-plus-main\target\classes started by zhi in C:\Users\zhi\Desktop\newbee-mall-plus-main)
+2022-05-16 09:32:41.554 [main] INFO  ltd.newbee.mall.NewBeeMallPlusApplication - [logStartupProfileInfo,646] - The following 1 profile is active: "dev"
+2022-05-16 09:32:42.551 [main] INFO  io.undertow.servlet - [log,382] - Initializing Spring embedded WebApplicationContext
+2022-05-16 09:32:43.397 [main] INFO  io.undertow - [start,120] - starting server: Undertow - 2.2.16.Final
+2022-05-16 09:32:43.401 [main] INFO  org.xnio - [<clinit>,95] - XNIO version 3.8.6.Final
+2022-05-16 09:32:43.405 [main] INFO  org.xnio.nio - [<clinit>,58] - XNIO NIO Implementation Version 3.8.6.Final
+2022-05-16 09:32:43.442 [main] INFO  org.jboss.threads - [<clinit>,52] - JBoss Threads version 3.1.0.Final
+2022-05-16 09:32:43.487 [main] INFO  ltd.newbee.mall.NewBeeMallPlusApplication - [logStarted,61] - Started NewBeeMallPlusApplication in 2.505 seconds (JVM running for 3.334)
+2022-05-16 09:32:43.499 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,110] - hikariCP - Starting...
+2022-05-16 09:32:48.585 [main] INFO  io.undertow - [stop,259] - stopping server: Undertow - 2.2.16.Final
+2022-05-16 09:33:18.131 [main] INFO  ltd.newbee.mall.NewBeeMallPlusApplication - [logStarting,55] - Starting NewBeeMallPlusApplication using Java 17.0.3 on zhi with PID 6844 (C:\Users\zhi\Desktop\newbee-mall-plus-main\target\classes started by zhi in C:\Users\zhi\Desktop\newbee-mall-plus-main)
+2022-05-16 09:33:18.133 [main] INFO  ltd.newbee.mall.NewBeeMallPlusApplication - [logStartupProfileInfo,646] - The following 1 profile is active: "dev"
+2022-05-16 09:33:18.785 [main] INFO  ltd.newbee.mall.NewBeeMallPlusApplication - [logStarting,55] - Starting NewBeeMallPlusApplication using Java 17.0.3 on zhi with PID 17828 (C:\Users\zhi\Desktop\newbee-mall-plus-main\target\classes started by zhi in C:\Users\zhi\Desktop\newbee-mall-plus-main)
+2022-05-16 09:33:18.787 [main] INFO  ltd.newbee.mall.NewBeeMallPlusApplication - [logStartupProfileInfo,646] - The following 1 profile is active: "dev"
+2022-05-16 09:33:19.322 [main] INFO  io.undertow.servlet - [log,382] - Initializing Spring embedded WebApplicationContext
+2022-05-16 09:33:19.812 [main] INFO  io.undertow.servlet - [log,382] - Initializing Spring embedded WebApplicationContext
+2022-05-16 09:33:20.317 [main] INFO  io.undertow - [start,120] - starting server: Undertow - 2.2.16.Final
+2022-05-16 09:33:20.322 [main] INFO  org.xnio - [<clinit>,95] - XNIO version 3.8.6.Final
+2022-05-16 09:33:20.327 [main] INFO  org.xnio.nio - [<clinit>,58] - XNIO NIO Implementation Version 3.8.6.Final
+2022-05-16 09:33:20.367 [main] INFO  org.jboss.threads - [<clinit>,52] - JBoss Threads version 3.1.0.Final
+2022-05-16 09:33:20.422 [main] INFO  ltd.newbee.mall.NewBeeMallPlusApplication - [logStarted,61] - Started NewBeeMallPlusApplication in 2.79 seconds (JVM running for 3.789)
+2022-05-16 09:33:20.439 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,110] - hikariCP - Starting...
+2022-05-16 09:33:20.672 [main] INFO  io.undertow - [start,120] - starting server: Undertow - 2.2.16.Final
+2022-05-16 09:33:20.676 [main] INFO  org.xnio - [<clinit>,95] - XNIO version 3.8.6.Final
+2022-05-16 09:33:20.681 [main] INFO  org.xnio.nio - [<clinit>,58] - XNIO NIO Implementation Version 3.8.6.Final
+2022-05-16 09:33:20.716 [main] INFO  org.jboss.threads - [<clinit>,52] - JBoss Threads version 3.1.0.Final
+2022-05-16 09:33:20.752 [main] INFO  io.undertow - [stop,259] - stopping server: Undertow - 2.2.16.Final
+2022-05-16 09:33:25.583 [main] INFO  io.undertow - [stop,259] - stopping server: Undertow - 2.2.16.Final
+2022-05-16 09:33:38.859 [main] INFO  ltd.newbee.mall.NewBeeMallPlusApplication - [logStarting,55] - Starting NewBeeMallPlusApplication using Java 17.0.3 on zhi with PID 16676 (C:\Users\zhi\Desktop\newbee-mall-plus-main\target\classes started by zhi in C:\Users\zhi\Desktop\newbee-mall-plus-main)
+2022-05-16 09:33:38.861 [main] INFO  ltd.newbee.mall.NewBeeMallPlusApplication - [logStartupProfileInfo,646] - The following 1 profile is active: "dev"
+2022-05-16 09:33:39.771 [main] INFO  io.undertow.servlet - [log,382] - Initializing Spring embedded WebApplicationContext
+2022-05-16 09:33:40.570 [main] INFO  io.undertow - [start,120] - starting server: Undertow - 2.2.16.Final
+2022-05-16 09:33:40.574 [main] INFO  org.xnio - [<clinit>,95] - XNIO version 3.8.6.Final
+2022-05-16 09:33:40.578 [main] INFO  org.xnio.nio - [<clinit>,58] - XNIO NIO Implementation Version 3.8.6.Final
+2022-05-16 09:33:40.614 [main] INFO  org.jboss.threads - [<clinit>,52] - JBoss Threads version 3.1.0.Final
+2022-05-16 09:33:40.659 [main] INFO  ltd.newbee.mall.NewBeeMallPlusApplication - [logStarted,61] - Started NewBeeMallPlusApplication in 2.115 seconds (JVM running for 2.591)
+2022-05-16 09:33:40.670 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,110] - hikariCP - Starting...
+2022-05-16 09:33:45.770 [main] INFO  io.undertow - [stop,259] - stopping server: Undertow - 2.2.16.Final
+2022-05-16 09:38:08.661 [main] INFO  ltd.newbee.mall.NewBeeMallPlusApplication - [logStarting,55] - Starting NewBeeMallPlusApplication using Java 17.0.3 on zhi with PID 16464 (C:\Users\zhi\Desktop\newbee-mall-plus-main\target\classes started by zhi in C:\Users\zhi\Desktop\newbee-mall-plus-main)
+2022-05-16 09:38:08.664 [main] INFO  ltd.newbee.mall.NewBeeMallPlusApplication - [logStartupProfileInfo,646] - The following 1 profile is active: "dev"
+2022-05-16 09:38:09.556 [main] INFO  io.undertow.servlet - [log,382] - Initializing Spring embedded WebApplicationContext
+2022-05-16 09:38:10.336 [main] INFO  io.undertow - [start,120] - starting server: Undertow - 2.2.16.Final
+2022-05-16 09:38:10.340 [main] INFO  org.xnio - [<clinit>,95] - XNIO version 3.8.6.Final
+2022-05-16 09:38:10.344 [main] INFO  org.xnio.nio - [<clinit>,58] - XNIO NIO Implementation Version 3.8.6.Final
+2022-05-16 09:38:10.380 [main] INFO  org.jboss.threads - [<clinit>,52] - JBoss Threads version 3.1.0.Final
+2022-05-16 09:38:10.423 [main] INFO  ltd.newbee.mall.NewBeeMallPlusApplication - [logStarted,61] - Started NewBeeMallPlusApplication in 2.14 seconds (JVM running for 2.629)
+2022-05-16 09:38:10.434 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,110] - hikariCP - Starting...
+2022-05-16 09:38:15.540 [main] INFO  io.undertow - [stop,259] - stopping server: Undertow - 2.2.16.Final
+2022-05-16 09:41:19.419 [main] INFO  ltd.newbee.mall.NewBeeMallPlusApplication - [logStarting,55] - Starting NewBeeMallPlusApplication using Java 17.0.3 on zhi with PID 7772 (C:\Users\zhi\Desktop\newbee-mall-plus-main\target\classes started by zhi in C:\Users\zhi\Desktop\newbee-mall-plus-main)
+2022-05-16 09:41:19.421 [main] INFO  ltd.newbee.mall.NewBeeMallPlusApplication - [logStartupProfileInfo,646] - The following 1 profile is active: "dev"
+2022-05-16 09:41:20.276 [main] INFO  io.undertow.servlet - [log,382] - Initializing Spring embedded WebApplicationContext
+2022-05-16 09:41:21.026 [main] INFO  io.undertow - [start,120] - starting server: Undertow - 2.2.16.Final
+2022-05-16 09:41:21.030 [main] INFO  org.xnio - [<clinit>,95] - XNIO version 3.8.6.Final
+2022-05-16 09:41:21.034 [main] INFO  org.xnio.nio - [<clinit>,58] - XNIO NIO Implementation Version 3.8.6.Final
+2022-05-16 09:41:21.068 [main] INFO  org.jboss.threads - [<clinit>,52] - JBoss Threads version 3.1.0.Final
+2022-05-16 09:41:21.109 [main] INFO  ltd.newbee.mall.NewBeeMallPlusApplication - [logStarted,61] - Started NewBeeMallPlusApplication in 1.997 seconds (JVM running for 2.525)
+2022-05-16 09:41:21.120 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,110] - hikariCP - Starting...
+2022-05-16 09:41:21.204 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,123] - hikariCP - Start completed.
+2022-05-16 09:41:32.844 [XNIO-1 task-1] INFO  io.undertow.servlet - [log,382] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-05-16 09:44:41.742 [SpringApplicationShutdownHook] INFO  io.undertow - [stop,259] - stopping server: Undertow - 2.2.16.Final
+2022-05-16 09:44:41.744 [SpringApplicationShutdownHook] INFO  io.undertow.servlet - [log,382] - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2022-05-16 09:44:41.755 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,350] - hikariCP - Shutdown initiated...
+2022-05-16 09:44:41.760 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,352] - hikariCP - Shutdown completed.
+2022-05-16 09:58:55.653 [main] INFO  ltd.newbee.mall.NewBeeMallPlusApplication - [logStarting,55] - Starting NewBeeMallPlusApplication using Java 17.0.3 on zhi with PID 19056 (C:\Users\zhi\Desktop\newbee-mall-plus-main\target\classes started by zhi in C:\Users\zhi\Desktop\newbee-mall-plus-main)
+2022-05-16 09:58:55.655 [main] INFO  ltd.newbee.mall.NewBeeMallPlusApplication - [logStartupProfileInfo,646] - The following 1 profile is active: "dev"
+2022-05-16 09:58:56.513 [main] INFO  io.undertow.servlet - [log,382] - Initializing Spring embedded WebApplicationContext
+2022-05-16 09:58:57.263 [main] INFO  io.undertow - [start,120] - starting server: Undertow - 2.2.16.Final
+2022-05-16 09:58:57.267 [main] INFO  org.xnio - [<clinit>,95] - XNIO version 3.8.6.Final
+2022-05-16 09:58:57.271 [main] INFO  org.xnio.nio - [<clinit>,58] - XNIO NIO Implementation Version 3.8.6.Final
+2022-05-16 09:58:57.304 [main] INFO  org.jboss.threads - [<clinit>,52] - JBoss Threads version 3.1.0.Final
+2022-05-16 09:58:57.346 [main] INFO  ltd.newbee.mall.NewBeeMallPlusApplication - [logStarted,61] - Started NewBeeMallPlusApplication in 2.136 seconds (JVM running for 2.674)
+2022-05-16 09:58:57.356 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,110] - hikariCP - Starting...
+2022-05-16 09:58:57.440 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,123] - hikariCP - Start completed.
+2022-05-16 09:59:38.785 [XNIO-1 task-1] INFO  io.undertow.servlet - [log,382] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-05-16 10:03:31.359 [SpringApplicationShutdownHook] INFO  io.undertow - [stop,259] - stopping server: Undertow - 2.2.16.Final
+2022-05-16 10:03:31.362 [SpringApplicationShutdownHook] INFO  io.undertow.servlet - [log,382] - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2022-05-16 10:03:31.376 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,350] - hikariCP - Shutdown initiated...
+2022-05-16 10:03:31.385 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,352] - hikariCP - Shutdown completed.
+2022-05-16 10:06:11.097 [main] INFO  ltd.newbee.mall.NewBeeMallPlusApplication - [logStarting,55] - Starting NewBeeMallPlusApplication using Java 17.0.3 on zhi with PID 14612 (C:\Users\zhi\Desktop\newbee-mall-plus-main\target\classes started by zhi in C:\Users\zhi\Desktop\newbee-mall-plus-main)
+2022-05-16 10:06:11.099 [main] INFO  ltd.newbee.mall.NewBeeMallPlusApplication - [logStartupProfileInfo,646] - The following 1 profile is active: "dev"
+2022-05-16 10:06:11.952 [main] INFO  io.undertow.servlet - [log,382] - Initializing Spring embedded WebApplicationContext
+2022-05-16 10:06:12.701 [main] INFO  io.undertow - [start,120] - starting server: Undertow - 2.2.16.Final
+2022-05-16 10:06:12.705 [main] INFO  org.xnio - [<clinit>,95] - XNIO version 3.8.6.Final
+2022-05-16 10:06:12.708 [main] INFO  org.xnio.nio - [<clinit>,58] - XNIO NIO Implementation Version 3.8.6.Final
+2022-05-16 10:06:12.742 [main] INFO  org.jboss.threads - [<clinit>,52] - JBoss Threads version 3.1.0.Final
+2022-05-16 10:06:12.783 [main] INFO  ltd.newbee.mall.NewBeeMallPlusApplication - [logStarted,61] - Started NewBeeMallPlusApplication in 1.995 seconds (JVM running for 2.448)
+2022-05-16 10:06:12.793 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,110] - hikariCP - Starting...
+2022-05-16 10:06:12.876 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,123] - hikariCP - Start completed.
+2022-05-16 10:06:20.569 [XNIO-1 task-1] INFO  io.undertow.servlet - [log,382] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-05-16 10:08:49.532 [SpringApplicationShutdownHook] INFO  io.undertow - [stop,259] - stopping server: Undertow - 2.2.16.Final
+2022-05-16 10:08:49.534 [SpringApplicationShutdownHook] INFO  io.undertow.servlet - [log,382] - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2022-05-16 10:08:49.544 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,350] - hikariCP - Shutdown initiated...
+2022-05-16 10:08:49.550 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,352] - hikariCP - Shutdown completed.
+2022-05-16 10:10:07.620 [main] INFO  ltd.newbee.mall.NewBeeMallPlusApplication - [logStarting,55] - Starting NewBeeMallPlusApplication using Java 17.0.3 on zhi with PID 4284 (C:\Users\zhi\Desktop\newbee-mall-plus-main\target\classes started by zhi in C:\Users\zhi\Desktop\newbee-mall-plus-main)
+2022-05-16 10:10:07.623 [main] INFO  ltd.newbee.mall.NewBeeMallPlusApplication - [logStartupProfileInfo,646] - The following 1 profile is active: "dev"
+2022-05-16 10:10:08.533 [main] INFO  io.undertow.servlet - [log,382] - Initializing Spring embedded WebApplicationContext
+2022-05-16 10:10:09.283 [main] INFO  io.undertow - [start,120] - starting server: Undertow - 2.2.16.Final
+2022-05-16 10:10:09.287 [main] INFO  org.xnio - [<clinit>,95] - XNIO version 3.8.6.Final
+2022-05-16 10:10:09.291 [main] INFO  org.xnio.nio - [<clinit>,58] - XNIO NIO Implementation Version 3.8.6.Final
+2022-05-16 10:10:09.324 [main] INFO  org.jboss.threads - [<clinit>,52] - JBoss Threads version 3.1.0.Final
+2022-05-16 10:10:09.366 [main] INFO  ltd.newbee.mall.NewBeeMallPlusApplication - [logStarted,61] - Started NewBeeMallPlusApplication in 2.086 seconds (JVM running for 2.617)
+2022-05-16 10:10:09.378 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,110] - hikariCP - Starting...
+2022-05-16 10:10:09.466 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,123] - hikariCP - Start completed.
+2022-05-16 10:10:22.018 [XNIO-1 task-1] INFO  io.undertow.servlet - [log,382] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-05-16 10:12:13.722 [SpringApplicationShutdownHook] INFO  io.undertow - [stop,259] - stopping server: Undertow - 2.2.16.Final
+2022-05-16 10:12:13.723 [SpringApplicationShutdownHook] INFO  io.undertow.servlet - [log,382] - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2022-05-16 10:12:13.735 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,350] - hikariCP - Shutdown initiated...
+2022-05-16 10:12:13.740 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,352] - hikariCP - Shutdown completed.
+2022-05-16 10:12:15.494 [main] INFO  ltd.newbee.mall.NewBeeMallPlusApplication - [logStarting,55] - Starting NewBeeMallPlusApplication using Java 17.0.3 on zhi with PID 8312 (C:\Users\zhi\Desktop\newbee-mall-plus-main\target\classes started by zhi in C:\Users\zhi\Desktop\newbee-mall-plus-main)
+2022-05-16 10:12:15.496 [main] INFO  ltd.newbee.mall.NewBeeMallPlusApplication - [logStartupProfileInfo,646] - The following 1 profile is active: "dev"
+2022-05-16 10:12:16.409 [main] INFO  io.undertow.servlet - [log,382] - Initializing Spring embedded WebApplicationContext
+2022-05-16 10:12:17.175 [main] INFO  io.undertow - [start,120] - starting server: Undertow - 2.2.16.Final
+2022-05-16 10:12:17.179 [main] INFO  org.xnio - [<clinit>,95] - XNIO version 3.8.6.Final
+2022-05-16 10:12:17.183 [main] INFO  org.xnio.nio - [<clinit>,58] - XNIO NIO Implementation Version 3.8.6.Final
+2022-05-16 10:12:17.220 [main] INFO  org.jboss.threads - [<clinit>,52] - JBoss Threads version 3.1.0.Final
+2022-05-16 10:12:17.265 [main] INFO  ltd.newbee.mall.NewBeeMallPlusApplication - [logStarted,61] - Started NewBeeMallPlusApplication in 2.06 seconds (JVM running for 2.574)
+2022-05-16 10:12:17.276 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,110] - hikariCP - Starting...
+2022-05-16 10:12:17.360 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,123] - hikariCP - Start completed.
+2022-05-16 10:12:22.271 [XNIO-1 task-1] INFO  io.undertow.servlet - [log,382] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-05-16 10:15:31.712 [SpringApplicationShutdownHook] INFO  io.undertow - [stop,259] - stopping server: Undertow - 2.2.16.Final
+2022-05-16 10:15:31.715 [SpringApplicationShutdownHook] INFO  io.undertow.servlet - [log,382] - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2022-05-16 10:15:31.725 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,350] - hikariCP - Shutdown initiated...
+2022-05-16 10:15:31.731 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,352] - hikariCP - Shutdown completed.
+2022-05-16 10:15:34.302 [main] INFO  ltd.newbee.mall.NewBeeMallPlusApplication - [logStarting,55] - Starting NewBeeMallPlusApplication using Java 17.0.3 on zhi with PID 19980 (C:\Users\zhi\Desktop\newbee-mall-plus-main\target\classes started by zhi in C:\Users\zhi\Desktop\newbee-mall-plus-main)
+2022-05-16 10:15:34.304 [main] INFO  ltd.newbee.mall.NewBeeMallPlusApplication - [logStartupProfileInfo,646] - The following 1 profile is active: "dev"
+2022-05-16 10:15:35.178 [main] INFO  io.undertow.servlet - [log,382] - Initializing Spring embedded WebApplicationContext
+2022-05-16 10:15:35.950 [main] INFO  io.undertow - [start,120] - starting server: Undertow - 2.2.16.Final
+2022-05-16 10:15:35.954 [main] INFO  org.xnio - [<clinit>,95] - XNIO version 3.8.6.Final
+2022-05-16 10:15:35.958 [main] INFO  org.xnio.nio - [<clinit>,58] - XNIO NIO Implementation Version 3.8.6.Final
+2022-05-16 10:15:35.992 [main] INFO  org.jboss.threads - [<clinit>,52] - JBoss Threads version 3.1.0.Final
+2022-05-16 10:15:36.034 [main] INFO  ltd.newbee.mall.NewBeeMallPlusApplication - [logStarted,61] - Started NewBeeMallPlusApplication in 2.027 seconds (JVM running for 2.488)
+2022-05-16 10:15:36.045 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,110] - hikariCP - Starting...
+2022-05-16 10:15:36.128 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,123] - hikariCP - Start completed.
+2022-05-16 10:15:39.750 [XNIO-1 task-1] INFO  io.undertow.servlet - [log,382] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-05-16 10:18:10.368 [SpringApplicationShutdownHook] INFO  io.undertow - [stop,259] - stopping server: Undertow - 2.2.16.Final
+2022-05-16 10:18:10.370 [SpringApplicationShutdownHook] INFO  io.undertow.servlet - [log,382] - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2022-05-16 10:18:10.381 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,350] - hikariCP - Shutdown initiated...
+2022-05-16 10:18:10.387 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,352] - hikariCP - Shutdown completed.
+2022-05-16 10:22:21.094 [main] INFO  ltd.newbee.mall.NewBeeMallPlusApplication - [logStarting,55] - Starting NewBeeMallPlusApplication using Java 1.8.0_331 on zhi with PID 17996 (C:\Users\zhi\Desktop\newbee-mall-plus-main\target\classes started by zhi in C:\Users\zhi\Desktop\newbee-mall-plus-main)
+2022-05-16 10:22:21.096 [main] INFO  ltd.newbee.mall.NewBeeMallPlusApplication - [logStartupProfileInfo,646] - The following 1 profile is active: "dev"
+2022-05-16 10:22:22.009 [main] INFO  io.undertow.servlet - [log,382] - Initializing Spring embedded WebApplicationContext
+2022-05-16 10:22:22.894 [main] INFO  io.undertow - [start,120] - starting server: Undertow - 2.2.16.Final
+2022-05-16 10:22:22.898 [main] INFO  org.xnio - [<clinit>,95] - XNIO version 3.8.6.Final
+2022-05-16 10:22:22.905 [main] INFO  org.xnio.nio - [<clinit>,58] - XNIO NIO Implementation Version 3.8.6.Final
+2022-05-16 10:22:22.928 [main] INFO  org.jboss.threads - [<clinit>,52] - JBoss Threads version 3.1.0.Final
+2022-05-16 10:22:22.977 [main] INFO  ltd.newbee.mall.NewBeeMallPlusApplication - [logStarted,61] - Started NewBeeMallPlusApplication in 2.284 seconds (JVM running for 3.412)
+2022-05-16 10:22:22.990 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,110] - hikariCP - Starting...
+2022-05-16 10:22:23.086 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,123] - hikariCP - Start completed.
+2022-05-16 10:22:28.256 [XNIO-1 task-1] INFO  io.undertow.servlet - [log,382] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-05-16 10:25:09.613 [SpringApplicationShutdownHook] INFO  io.undertow - [stop,259] - stopping server: Undertow - 2.2.16.Final
+2022-05-16 10:25:09.615 [SpringApplicationShutdownHook] INFO  io.undertow.servlet - [log,382] - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2022-05-16 10:25:09.632 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,350] - hikariCP - Shutdown initiated...
+2022-05-16 10:25:09.640 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,352] - hikariCP - Shutdown completed.
+2022-05-16 10:25:44.577 [main] INFO  ltd.newbee.mall.NewBeeMallPlusApplication - [logStarting,55] - Starting NewBeeMallPlusApplication using Java 1.8.0_331 on zhi with PID 7120 (C:\Users\zhi\Desktop\newbee-mall-plus-main\target\classes started by zhi in C:\Users\zhi\Desktop\newbee-mall-plus-main)
+2022-05-16 10:25:44.580 [main] INFO  ltd.newbee.mall.NewBeeMallPlusApplication - [logStartupProfileInfo,646] - The following 1 profile is active: "dev"
+2022-05-16 10:25:45.578 [main] INFO  io.undertow.servlet - [log,382] - Initializing Spring embedded WebApplicationContext
+2022-05-16 10:25:46.524 [main] INFO  io.undertow - [start,120] - starting server: Undertow - 2.2.16.Final
+2022-05-16 10:25:46.528 [main] INFO  org.xnio - [<clinit>,95] - XNIO version 3.8.6.Final
+2022-05-16 10:25:46.535 [main] INFO  org.xnio.nio - [<clinit>,58] - XNIO NIO Implementation Version 3.8.6.Final
+2022-05-16 10:25:46.559 [main] INFO  org.jboss.threads - [<clinit>,52] - JBoss Threads version 3.1.0.Final
+2022-05-16 10:25:46.599 [main] INFO  ltd.newbee.mall.NewBeeMallPlusApplication - [logStarted,61] - Started NewBeeMallPlusApplication in 2.449 seconds (JVM running for 3.332)
+2022-05-16 10:25:46.612 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,110] - hikariCP - Starting...
+2022-05-16 10:25:46.706 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,123] - hikariCP - Start completed.
+2022-05-16 10:25:56.424 [XNIO-1 task-1] INFO  io.undertow.servlet - [log,382] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-05-16 10:27:10.873 [SpringApplicationShutdownHook] INFO  io.undertow - [stop,259] - stopping server: Undertow - 2.2.16.Final
+2022-05-16 10:27:10.875 [SpringApplicationShutdownHook] INFO  io.undertow.servlet - [log,382] - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2022-05-16 10:27:10.889 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,350] - hikariCP - Shutdown initiated...
+2022-05-16 10:27:10.901 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,352] - hikariCP - Shutdown completed.
+2022-05-16 10:27:13.468 [main] INFO  ltd.newbee.mall.NewBeeMallPlusApplication - [logStarting,55] - Starting NewBeeMallPlusApplication using Java 1.8.0_331 on zhi with PID 1880 (C:\Users\zhi\Desktop\newbee-mall-plus-main\target\classes started by zhi in C:\Users\zhi\Desktop\newbee-mall-plus-main)
+2022-05-16 10:27:13.471 [main] INFO  ltd.newbee.mall.NewBeeMallPlusApplication - [logStartupProfileInfo,646] - The following 1 profile is active: "dev"
+2022-05-16 10:27:14.497 [main] INFO  io.undertow.servlet - [log,382] - Initializing Spring embedded WebApplicationContext
+2022-05-16 10:27:15.363 [main] INFO  io.undertow - [start,120] - starting server: Undertow - 2.2.16.Final
+2022-05-16 10:27:15.368 [main] INFO  org.xnio - [<clinit>,95] - XNIO version 3.8.6.Final
+2022-05-16 10:27:15.375 [main] INFO  org.xnio.nio - [<clinit>,58] - XNIO NIO Implementation Version 3.8.6.Final
+2022-05-16 10:27:15.399 [main] INFO  org.jboss.threads - [<clinit>,52] - JBoss Threads version 3.1.0.Final
+2022-05-16 10:27:15.447 [main] INFO  ltd.newbee.mall.NewBeeMallPlusApplication - [logStarted,61] - Started NewBeeMallPlusApplication in 2.471 seconds (JVM running for 3.52)
+2022-05-16 10:27:15.459 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,110] - hikariCP - Starting...
+2022-05-16 10:27:15.547 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,123] - hikariCP - Start completed.
+2022-05-16 10:27:21.536 [XNIO-1 task-1] INFO  io.undertow.servlet - [log,382] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-05-16 10:28:40.536 [SpringApplicationShutdownHook] INFO  io.undertow - [stop,259] - stopping server: Undertow - 2.2.16.Final
+2022-05-16 10:28:40.538 [SpringApplicationShutdownHook] INFO  io.undertow.servlet - [log,382] - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2022-05-16 10:28:40.552 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,350] - hikariCP - Shutdown initiated...
+2022-05-16 10:28:40.560 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,352] - hikariCP - Shutdown completed.
+2022-05-16 10:32:21.374 [main] INFO  ltd.newbee.mall.NewBeeMallPlusApplication - [logStarting,55] - Starting NewBeeMallPlusApplication using Java 1.8.0_331 on zhi with PID 18832 (C:\Users\zhi\Desktop\newbee-mall-plus-main\target\classes started by zhi in C:\Users\zhi\Desktop\newbee-mall-plus-main)
+2022-05-16 10:32:21.377 [main] INFO  ltd.newbee.mall.NewBeeMallPlusApplication - [logStartupProfileInfo,646] - The following 1 profile is active: "dev"
+2022-05-16 10:32:22.286 [main] INFO  io.undertow.servlet - [log,382] - Initializing Spring embedded WebApplicationContext
+2022-05-16 10:32:23.139 [main] INFO  io.undertow - [start,120] - starting server: Undertow - 2.2.16.Final
+2022-05-16 10:32:23.143 [main] INFO  org.xnio - [<clinit>,95] - XNIO version 3.8.6.Final
+2022-05-16 10:32:23.150 [main] INFO  org.xnio.nio - [<clinit>,58] - XNIO NIO Implementation Version 3.8.6.Final
+2022-05-16 10:32:23.173 [main] INFO  org.jboss.threads - [<clinit>,52] - JBoss Threads version 3.1.0.Final
+2022-05-16 10:32:23.222 [main] INFO  ltd.newbee.mall.NewBeeMallPlusApplication - [logStarted,61] - Started NewBeeMallPlusApplication in 2.216 seconds (JVM running for 3.147)
+2022-05-16 10:32:23.235 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,110] - hikariCP - Starting...
+2022-05-16 10:32:23.327 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,123] - hikariCP - Start completed.
+2022-05-16 10:32:27.498 [XNIO-1 task-1] INFO  io.undertow.servlet - [log,382] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-05-16 10:32:37.205 [SpringApplicationShutdownHook] INFO  io.undertow - [stop,259] - stopping server: Undertow - 2.2.16.Final
+2022-05-16 10:32:37.207 [SpringApplicationShutdownHook] INFO  io.undertow.servlet - [log,382] - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2022-05-16 10:32:37.221 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,350] - hikariCP - Shutdown initiated...
+2022-05-16 10:32:37.230 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,352] - hikariCP - Shutdown completed.
+2022-05-16 10:35:17.025 [main] INFO  ltd.newbee.mall.NewBeeMallPlusApplication - [logStarting,55] - Starting NewBeeMallPlusApplication using Java 1.8.0_331 on zhi with PID 19864 (C:\Users\zhi\Desktop\newbee-mall-plus-main\target\classes started by zhi in C:\Users\zhi\Desktop\newbee-mall-plus-main)
+2022-05-16 10:35:17.029 [main] INFO  ltd.newbee.mall.NewBeeMallPlusApplication - [logStartupProfileInfo,646] - The following 1 profile is active: "dev"
+2022-05-16 10:35:18.103 [main] INFO  io.undertow.servlet - [log,382] - Initializing Spring embedded WebApplicationContext
+2022-05-16 10:35:19.132 [main] INFO  io.undertow - [start,120] - starting server: Undertow - 2.2.16.Final
+2022-05-16 10:35:19.137 [main] INFO  org.xnio - [<clinit>,95] - XNIO version 3.8.6.Final
+2022-05-16 10:35:19.143 [main] INFO  org.xnio.nio - [<clinit>,58] - XNIO NIO Implementation Version 3.8.6.Final
+2022-05-16 10:35:19.169 [main] INFO  org.jboss.threads - [<clinit>,52] - JBoss Threads version 3.1.0.Final
+2022-05-16 10:35:19.211 [main] INFO  ltd.newbee.mall.NewBeeMallPlusApplication - [logStarted,61] - Started NewBeeMallPlusApplication in 2.57 seconds (JVM running for 3.51)
+2022-05-16 10:35:19.224 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,110] - hikariCP - Starting...
+2022-05-16 10:35:19.321 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,123] - hikariCP - Start completed.
+2022-05-16 10:35:24.027 [XNIO-1 task-1] INFO  io.undertow.servlet - [log,382] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-05-16 10:35:59.786 [SpringApplicationShutdownHook] INFO  io.undertow - [stop,259] - stopping server: Undertow - 2.2.16.Final
+2022-05-16 10:35:59.788 [SpringApplicationShutdownHook] INFO  io.undertow.servlet - [log,382] - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2022-05-16 10:35:59.801 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,350] - hikariCP - Shutdown initiated...
+2022-05-16 10:35:59.810 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,352] - hikariCP - Shutdown completed.
+2022-05-16 10:36:07.534 [main] INFO  ltd.newbee.mall.NewBeeMallPlusApplication - [logStarting,55] - Starting NewBeeMallPlusApplication using Java 1.8.0_331 on zhi with PID 18660 (C:\Users\zhi\Desktop\newbee-mall-plus-main\target\classes started by zhi in C:\Users\zhi\Desktop\newbee-mall-plus-main)
+2022-05-16 10:36:07.537 [main] INFO  ltd.newbee.mall.NewBeeMallPlusApplication - [logStartupProfileInfo,646] - The following 1 profile is active: "dev"
+2022-05-16 10:36:08.559 [main] INFO  io.undertow.servlet - [log,382] - Initializing Spring embedded WebApplicationContext
+2022-05-16 10:36:09.457 [main] INFO  io.undertow - [start,120] - starting server: Undertow - 2.2.16.Final
+2022-05-16 10:36:09.461 [main] INFO  org.xnio - [<clinit>,95] - XNIO version 3.8.7.Final
+2022-05-16 10:36:09.468 [main] INFO  org.xnio.nio - [<clinit>,58] - XNIO NIO Implementation Version 3.8.7.Final
+2022-05-16 10:36:09.490 [main] INFO  org.jboss.threads - [<clinit>,52] - JBoss Threads version 3.1.0.Final
+2022-05-16 10:36:09.531 [main] INFO  ltd.newbee.mall.NewBeeMallPlusApplication - [logStarted,61] - Started NewBeeMallPlusApplication in 2.413 seconds (JVM running for 3.427)
+2022-05-16 10:36:09.544 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,110] - hikariCP - Starting...
+2022-05-16 10:36:09.635 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,123] - hikariCP - Start completed.
+2022-05-16 10:36:12.885 [XNIO-1 task-1] INFO  io.undertow.servlet - [log,382] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-05-16 10:36:53.766 [SpringApplicationShutdownHook] INFO  io.undertow - [stop,259] - stopping server: Undertow - 2.2.16.Final
+2022-05-16 10:36:53.769 [SpringApplicationShutdownHook] INFO  io.undertow.servlet - [log,382] - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2022-05-16 10:36:53.782 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,350] - hikariCP - Shutdown initiated...
+2022-05-16 10:36:53.793 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,352] - hikariCP - Shutdown completed.
+2022-05-16 10:40:58.592 [main] INFO  ltd.newbee.mall.NewBeeMallPlusApplication - [logStarting,55] - Starting NewBeeMallPlusApplication using Java 1.8.0_331 on zhi with PID 18200 (C:\Users\zhi\Desktop\newbee-mall-plus-main\target\classes started by zhi in C:\Users\zhi\Desktop\newbee-mall-plus-main)
+2022-05-16 10:40:58.596 [main] INFO  ltd.newbee.mall.NewBeeMallPlusApplication - [logStartupProfileInfo,646] - The following 1 profile is active: "dev"
+2022-05-16 10:40:59.833 [main] INFO  io.undertow.servlet - [log,382] - Initializing Spring embedded WebApplicationContext
+2022-05-16 10:41:00.972 [main] INFO  io.undertow - [start,120] - starting server: Undertow - 2.2.16.Final
+2022-05-16 10:41:00.977 [main] INFO  org.xnio - [<clinit>,95] - XNIO version 3.8.7.Final
+2022-05-16 10:41:00.983 [main] INFO  org.xnio.nio - [<clinit>,58] - XNIO NIO Implementation Version 3.8.7.Final
+2022-05-16 10:41:01.006 [main] INFO  org.jboss.threads - [<clinit>,52] - JBoss Threads version 3.1.0.Final
+2022-05-16 10:41:01.047 [main] INFO  ltd.newbee.mall.NewBeeMallPlusApplication - [logStarted,61] - Started NewBeeMallPlusApplication in 2.967 seconds (JVM running for 3.957)
+2022-05-16 10:41:01.060 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,110] - hikariCP - Starting...
+2022-05-16 10:41:01.153 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,123] - hikariCP - Start completed.
+2022-05-16 10:41:10.055 [XNIO-1 task-1] INFO  io.undertow.servlet - [log,382] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-05-16 10:44:49.509 [SpringApplicationShutdownHook] INFO  io.undertow - [stop,259] - stopping server: Undertow - 2.2.16.Final
+2022-05-16 10:44:49.511 [SpringApplicationShutdownHook] INFO  io.undertow.servlet - [log,382] - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2022-05-16 10:44:49.648 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,350] - hikariCP - Shutdown initiated...
+2022-05-16 10:44:49.655 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,352] - hikariCP - Shutdown completed.
+2022-05-16 10:49:08.288 [main] INFO  ltd.newbee.mall.NewBeeMallPlusApplication - [logStarting,55] - Starting NewBeeMallPlusApplication using Java 1.8.0_331 on zhi with PID 2456 (C:\Users\zhi\Desktop\newbee-mall-plus-main\target\classes started by zhi in C:\Users\zhi\Desktop\newbee-mall-plus-main)
+2022-05-16 10:49:08.291 [main] INFO  ltd.newbee.mall.NewBeeMallPlusApplication - [logStartupProfileInfo,646] - The following 1 profile is active: "dev"
+2022-05-16 10:49:09.441 [main] INFO  io.undertow.servlet - [log,382] - Initializing Spring embedded WebApplicationContext
+2022-05-16 10:49:10.305 [main] INFO  io.undertow - [start,120] - starting server: Undertow - 2.2.16.Final
+2022-05-16 10:49:10.310 [main] INFO  org.xnio - [<clinit>,95] - XNIO version 3.8.7.Final
+2022-05-16 10:49:10.317 [main] INFO  org.xnio.nio - [<clinit>,58] - XNIO NIO Implementation Version 3.8.7.Final
+2022-05-16 10:49:10.340 [main] INFO  org.jboss.threads - [<clinit>,52] - JBoss Threads version 3.1.0.Final
+2022-05-16 10:49:10.388 [main] INFO  ltd.newbee.mall.NewBeeMallPlusApplication - [logStarted,61] - Started NewBeeMallPlusApplication in 2.525 seconds (JVM running for 3.615)
+2022-05-16 10:49:10.400 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,110] - hikariCP - Starting...
+2022-05-16 10:49:10.501 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,123] - hikariCP - Start completed.
+2022-05-16 10:49:13.127 [XNIO-1 task-1] INFO  io.undertow.servlet - [log,382] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-05-16 10:54:44.183 [SpringApplicationShutdownHook] INFO  io.undertow - [stop,259] - stopping server: Undertow - 2.2.16.Final
+2022-05-16 10:54:44.185 [SpringApplicationShutdownHook] INFO  io.undertow.servlet - [log,382] - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2022-05-16 10:54:44.199 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,350] - hikariCP - Shutdown initiated...
+2022-05-16 10:54:44.205 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,352] - hikariCP - Shutdown completed.
+2022-05-16 20:53:21.344 [main] INFO  ltd.newbee.mall.NewBeeMallPlusApplication - [logStarting,55] - Starting NewBeeMallPlusApplication using Java 1.8.0_331 on zhi with PID 32572 (C:\Users\zhi\Desktop\newbee-mall-plus-main\target\classes started by zhi in C:\Users\zhi\Desktop\newbee-mall-plus-main)
+2022-05-16 20:53:21.347 [main] INFO  ltd.newbee.mall.NewBeeMallPlusApplication - [logStartupProfileInfo,646] - The following 1 profile is active: "dev"
+2022-05-16 20:53:22.572 [main] INFO  io.undertow.servlet - [log,382] - Initializing Spring embedded WebApplicationContext
+2022-05-16 20:53:23.698 [main] INFO  io.undertow - [start,120] - starting server: Undertow - 2.2.16.Final
+2022-05-16 20:53:23.704 [main] INFO  org.xnio - [<clinit>,95] - XNIO version 3.8.7.Final
+2022-05-16 20:53:23.711 [main] INFO  org.xnio.nio - [<clinit>,58] - XNIO NIO Implementation Version 3.8.7.Final
+2022-05-16 20:53:23.738 [main] INFO  org.jboss.threads - [<clinit>,52] - JBoss Threads version 3.1.0.Final
+2022-05-16 20:53:23.786 [main] INFO  ltd.newbee.mall.NewBeeMallPlusApplication - [logStarted,61] - Started NewBeeMallPlusApplication in 2.988 seconds (JVM running for 4.316)
+2022-05-16 20:53:23.803 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,110] - hikariCP - Starting...
+2022-05-16 20:53:23.949 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,123] - hikariCP - Start completed.
+2022-05-16 20:54:23.535 [XNIO-1 task-1] INFO  io.undertow.servlet - [log,382] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-05-16 21:32:42.730 [SpringApplicationShutdownHook] INFO  io.undertow - [stop,259] - stopping server: Undertow - 2.2.16.Final
+2022-05-16 21:32:42.733 [SpringApplicationShutdownHook] INFO  io.undertow.servlet - [log,382] - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2022-05-16 21:32:42.752 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,350] - hikariCP - Shutdown initiated...
+2022-05-16 21:32:42.761 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,352] - hikariCP - Shutdown completed.
